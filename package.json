@@ -1,0 +1,14 @@
+{
+    "name": "dcountdown-timer",
+    "version": "1.0.0",
+    "description": "Simple countdown timer webapp in docker",
+    "author": "First Last <first.last@example.com>",
+    "main": "server.js",
+    "private": true,
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.20.0"
+    }
+  }
